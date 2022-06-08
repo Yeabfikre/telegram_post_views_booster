@@ -28,6 +28,6 @@ Contact me to buy this program only if you can make the payment using one of the
 
 ### 📞 CONTACT ME
 If you have any other questions or If you have a development to do for me, feel free to send me a message.
-Email - sayhi@pycoder28.anonaddy.com
-Telegram - pycoder28
-Discord - pycoder#
+* Email - sayhi@pycoder28.anonaddy.com
+* Telegram - pycoder28
+* Discord - pycoder#
