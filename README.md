@@ -1,7 +1,9 @@
 # Telegram posts views booster
 
 <a href="https://ibb.co/1vrzPWN"><img src="https://i.ibb.co/ZLB2FDr/1.png" alt="1" border="0"></a>
+
 More screenshots - https://ibb.co/album/28drft
+
 ---
 
 ### 💡 FEATURES
