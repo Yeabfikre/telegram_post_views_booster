@@ -1,5 +1,3 @@
-<script type="text/javascript" src="https://payhip.com/payhip.js"></script>
-
 # Telegram posts views booster
 
 <a href="https://ibb.co/1vrzPWN"><img src="https://i.ibb.co/ZLB2FDr/1.png" alt="1" border="0"></a>
@@ -27,7 +25,6 @@ If you have your own specific requirements I can make the modifications accordin
 
 ### 🛒 HOW TO BUY
 Contact me to buy this program only if you can make the payment using one of these methods. Airtm, Payeer, Payoneer, Skrill, or Cryptocurrency(ERC-20) - USDT, USDC, BUSD.
-<a href="https://payhip.com/b/n6QUd" class="payhip-buy-button" data-theme="blue" data-product="n6QUd">Buy Now</a>
 
 ### 📞 CONTACT ME
 If you have any other questions or If you have a development to do for me, feel free to send me a message.
