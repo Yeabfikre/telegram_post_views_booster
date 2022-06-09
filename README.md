@@ -24,7 +24,7 @@ If you have your own specific requirements I can make the modifications accordin
 * bs4(Beautiful Soup) 4.9.0
 
 ### 🛒 HOW TO BUY
-Contact me to buy this program only if you can make the payment using one of these methods. Airtm, Payeer, Payoneer, Skrill, or Cryptocurrency(ERC-20) - USDT, USDC, BUSD. This application price would be $75. (Price is negotiable)
+Contact me to buy this program only if you can make the payment using one of these methods. Airtm, Payeer, Payoneer, or Cryptocurrency(ERC-20) - USDT, USDC, BUSD. This application price would be $75. (Price is negotiable)
 
 ### 📞 CONTACT ME
 If you have any other questions or If you have a development to do for me, feel free to send me a message.
