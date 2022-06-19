@@ -10,7 +10,7 @@ You can contact me to buy this program. Accepted payment methods. Airtm, Payeer
 2. Find user id of channels/groups
 3. Night mode - Turn of views sending on night time
 4. Burst mode - Toggle views sending speed(Slow/Fast)
-5. Regiter channels to send views on every new post
+5. Register channels to send views on every new post
 6. Scrape free proxies from websites
 7. Use your own proxies
 
