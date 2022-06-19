@@ -1,33 +1,29 @@
 # Telegram posts views booster
 
-<a href="https://ibb.co/1vrzPWN"><img src="https://i.ibb.co/ZLB2FDr/1.png" alt="1" border="0"></a>
+<img src="https://i.ibb.co/DV9rv2F/1.png" alt="1" border="0">
 
-More screenshots - https://ibb.co/album/28drft
+### 🛒 How to buy
+You can contact me to buy this program. Accepted payment methods. Airtm, Payeer, Payoneer, USDT(ERC-20), USDC(ERC-20), BUSD(ERC-20)
 
----
+### 💡 Features of the bot
+1. Increase views on post by fowrding post to bot
+2. Find user id of channels/groups
+3. Night mode - Turn of views sending on night time
+4. Burst mode - Toggle views sending speed(Slow/Fast)
+5. Regiter channels to send views on every new post
+6. Scrape free proxies from websites
+7. Use your own proxies
 
-### 💡 FEATURES
-* Send views to post by fowrding post to bot
-* Send views using proxies.
-* Scrape free proxies.
-* Find ID of channels
-* Night mode - Change views should be sent on night time or not
-* Burst mode - Change views should be sent fast or slowly
-and many more...
+Thses are the main features of the bot. If you have your own specific requirements I can make the modifications according to that.
 
-If you have your own specific requirements I can make the modifications according to that.
+### ⚙️ Development details
+You won't need telegram accounts to send views. This bot uses proxies for sending views. You can use free proxies or paid proxies depend on your choice.
+- python 3.9.7
+- telethon 1.24.0
+- requests 2.27.1
+- bs4(Beautiful Soup) 4.9.0
 
-### ⚙️ DEVELOPMENT INFO
-* python 3.9.7
-* telethon 1.24.0
-* requests 2.27.1
-* bs4(Beautiful Soup) 4.9.0
-
-### 🛒 HOW TO BUY
-Contact me to buy this program only if you can make the payment using one of these methods. Airtm, Payeer, Payoneer, or Cryptocurrency(ERC-20) - USDT, USDC, BUSD. This application price would be $75. (Price is negotiable)
-
-### 📞 CONTACT ME
-If you have any other questions or If you have a development to do for me, feel free to send me a message.
+### 📞 Contact me
 * Email - sayhi@pycoder28.anonaddy.com
 * Telegram - pycoder28
-* Discord - pycoder#
+* Discord - pycoder#5722
