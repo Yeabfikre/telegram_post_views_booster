@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/DV9rv2F/1.png" alt="1" border="0">
 
 ### 🛒 How to buy
-You can contact me to buy this program. Accepted payment methods. Airtm, Payeer, Payoneer, USDT(ERC-20), USDC(ERC-20), BUSD(ERC-20)
+You can contact me to buy this program. Accepted payment methods. Airtm, Payeer, Payoneer, USDT(ERC-20), USDC(ERC-20), BUSD(ERC-20). Price for this tool would be $65
 
 ### 💡 Features of the bot
 1. Increase views on post by fowrding post to bot
