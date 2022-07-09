@@ -5,7 +5,7 @@
 More screenshots: https://ibb.co/album/28drft
 
 ### 🛒 How to buy
-You can contact me to buy this program. Accepted payment methods: Payeer, USDT(ERC-20), USDC(ERC-20). Price for this tool would be $80
+You can contact me to buy this program. Accepted payment methods: Payeer, Cryptocurrency. Price for this tool would be $80
 
 ### 💡 Features of the bot
 1. Increase views on post by fowrding post to bot
