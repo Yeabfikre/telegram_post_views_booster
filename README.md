@@ -2,6 +2,8 @@
 
 <img src="https://i.ibb.co/DV9rv2F/1.png" alt="1" border="0">
 
+Contact me to get a demo.
+
 More screenshots: https://ibb.co/album/28drft
 
 ### 🛒 How to buy
