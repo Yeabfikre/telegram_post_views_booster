@@ -1,4 +1,4 @@
-# <p align="center">Telegram Posts Views Booster</p>
+# <p align="center">Telegram Post Views Booster</p>
 
 <img src="img/1.png" alt="image" border="0">
 
