@@ -7,7 +7,7 @@ Contact me to get a demo or more details.
 More screenshots: [img/images.md](img/images.md)
 
 ### 🛒 How to buy
-You can contact me to buy this program. Accepted payment methods: Payeer, Cryptocurrency. Price for this tool would be $80
+You can contact me to buy this program. The price of this tool would be $80.
 
 ### 💡 Features of the bot
 1. Increase views on post by fowrding post to the bot
