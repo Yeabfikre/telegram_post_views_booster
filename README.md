@@ -27,5 +27,5 @@ You won't need telegram accounts to send views. This bot uses proxies for sendin
 - bs4(Beautiful Soup) 4.9.0
 
 ### 📞 Contact me
-* Telegram - rohith419
-* Discord - rohithl#5722
+* Telegram - shandev4
+* Discord - shandev#5722
